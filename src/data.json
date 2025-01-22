@@ -1,0 +1,19 @@
+{
+  "resources": [
+    {
+      "title": "Find me on Mastodon",
+      "link": "https://indieweb.social/@kendalmintcode",
+      "imageUrl": "https://images.unsplash.com/photo-1515238152791-8216bfdf89a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80'"
+    },
+    {
+      "title": "Welcome to K-Tech",
+      "link": "https://k-tech.systems",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2073&q=80"
+    },
+    {
+      "title": "Some sort of third title",
+      "link": "https://indieweb.social/@kendalmintcode",
+      "imageUrl": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    }
+  ]
+}
